@@ -7,3 +7,7 @@ Use OpenGL to implement visualization.
 ## I. Convex Hull
 
 Include Jarvis March and Graham Scan.
+
+<center>
+  <img src="http://ovi8mw7d8.bkt.clouddn.com/ConvexHull.PNG">
+</center>
